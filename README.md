@@ -1,7 +1,7 @@
 Prototyping for now...
 TODO:
-- Kernel-mode access
-- Powershell Pipes
-- AMSI bypass
+- Kernel-mode
+- Named Pipes
 - file mapping
-- NT API
+- WINAPI
+- Linux API
